@@ -1,0 +1,19 @@
+.header {
+  background-color: #4a90e2;
+  padding: 0 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-profile {
+  display: flex;
+  align-items: center;
+}
+
+.header-profile p {
+  color: #fff;
+  font-weight: 100;
+  font-size: 15px;
+  margin-right: 10px;
+}
